@@ -1,0 +1,23 @@
+Metadata-Version: 2.0
+Name: entropymdlp
+Version: 0.1
+Summary: Minimum description length principle
+Home-page: http://github.com/maxpumperla/entropy-mdlp
+Author: Max Pumperla
+Author-email: max.pumperla@googlemail.com
+License: MIT
+Download-URL: https://github.com/maxpumperla/entropy-mdlp/tarball/0.1
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Developers
+Classifier: Environment :: Console
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 3
+Requires-Dist: numpy
+
+UNKNOWN
+
+

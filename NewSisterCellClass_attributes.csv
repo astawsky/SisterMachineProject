@@ -1,0 +1,48 @@
+Class,Attribute
+"Sister, Nonsister, Control",A_stats_dict
+All,_origin
+"Sister, Nonsister, Control",B_raw_protein_data_dict
+All,_protein_keylist
+All,_protein_data
+Control,reference_A_dict
+"Sister, Nonsister, Control",B_intra_gen_bacteria
+Control,reference_B_dict
+Control,sister_data
+Control,B_dataorigin
+"Sister, Nonsister, Control",_log_A_dict
+"Sister, Nonsister, Control",Trap_coeffs_of_vars_dict
+All,organizational_table
+"Sister, Nonsister, Control",Both_dict
+All,_data
+All,coeffs_of_vars
+All,_all_data_dict
+All,_protein_origin
+All,_protein_data_len
+"Sister, Nonsister, Control",_log_B_dict
+"Sister, Nonsister, Control",B_coeffs_of_vars_dict
+"Sister, Nonsister, Control",B_dict
+Control,nonsis_all_protein
+"Sister, Nonsister, Control",B_stats_dict
+"Sister, Nonsister, Control",A_intra_gen_bacteria
+Population,mother_dfs
+All,_data_len
+Control,non_sis_Both
+Control,sis_all_protein
+Control,sis_Both
+Control,A_dataorigin
+"Sister, Nonsister, Control",A_dict
+Population,daughter_dfs
+All,pop_stats
+Control,sister_dataorigin
+Control,nonsister_data
+Control,nonsister_dataorigin
+All,_all_raw_protein_data_dict
+"Sister, Nonsister, Control",trap_stats_dict
+"Sister, Nonsister, Control",A_coeffs_of_vars_dict
+"Sister, Nonsister, Control",_dataset_raw_protein_data_dict
+Control,reference_B_raw_protein_data_dict
+"Sister, Nonsister, Control",_log_Both_dict
+Population,_log_all_data_dict
+"Sister, Nonsister, Control",A_raw_protein_data_dict
+All,_keylist
+Control,reference_A_raw_protein_data_dict
